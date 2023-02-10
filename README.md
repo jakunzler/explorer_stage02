@@ -8,8 +8,7 @@ Desafio para correção de bugs no Stage 02. <br/>
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-layout">Layout</a>
 </p>
 
 <br>
@@ -30,18 +29,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Explorer é o programa mais completo de formação da Rocketseat onde você desenvolve as habilidades técnicas e comportamentais pra decolar na carreira de dev.
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
-
-- [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
+- [Acesse o projeto finalizado, online](https://jakunzler.github.io/explorer_stage02/)
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/fAvYZz4dPV5MfhL77XkqkD/Explorer---Stage-01). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT.
-
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com ♥ by Dr. Jonas Augusto Kunzler :wave: [Repositório com meus projetos!](https://github.com/jakunzler). &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/jakunzler"><img alt="Link para perfil do GitHub" src="./images/github-dark.png" width="2%"></a> &nbsp;|&nbsp; <a href="https://www.linkedin.com/in/jonas-augusto-kunzler-20a63547/"><img alt="Link para perfil do LinkedIn" src="./images/linkedin.png" width="2%"></a> &nbsp;|&nbsp; <a href="https://www.instagram.com/jakunzler/"><img alt="Link para perfil do Instagram" src="./images/instagram.png" width="2%"></a>
