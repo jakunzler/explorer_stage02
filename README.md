@@ -2,7 +2,7 @@
 
 <p align="center">
 Desafio para correção de bugs no Stage 02. <br/>
-<a href="https://www.rocketseat.com.br/">Estude esse projeto no módulo Explorer.</a>
+<a href="https://www.rocketseat.com.br/explorer">Estude esse projeto no módulo Explorer.</a>
 </p>
 
 <p align="center">
